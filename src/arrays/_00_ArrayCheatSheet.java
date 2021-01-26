@@ -3,16 +3,18 @@ package arrays;
 public class _00_ArrayCheatSheet {
 	public static void main(String[] args) {
 		//1. make an array of 5 Strings
-		
+	String[] feesh = {"pollo","sandwich","clam","potato","rabbit"};	
 		//2. print the third element in the array
-		
+	System.out.println(feesh[2]);	
 		//3. set the third element to a different value
-		
+	feesh[2] = "burger";
 		//4. print the third element again
-		
+	System.out.println(feesh[2]);	
 		//5. use a for loop to print all the values in the array
 		//   BE SURE TO USE THE ARRAY'S length VARIABLE
+	For(int i,){
 		
+	}	
 		
 		//6. make an array of 50 integers
 		
